@@ -5,7 +5,7 @@ import java.awt.event.*;
 
 public class Main {
 	public static void main(String[] args) {
-        Frame frame = new Frame("Steph's Inventory-App");
+        Frame frame = new Frame("Steph's Inventory-App AWT");
         frame.setSize(400, 200);
         frame.setLayout(new FlowLayout());
 
