@@ -5,6 +5,7 @@
 
 # Maven
 target/
+bin/
 
 # IntelliJ (falls mal)
 .idea/
