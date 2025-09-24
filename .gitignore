@@ -1,2 +1,15 @@
-/bin/
-/target/
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# IntelliJ (falls mal)
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
